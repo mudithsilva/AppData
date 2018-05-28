@@ -1,6 +1,6 @@
 //
 //  AppData.swift
-//  StackTest
+//  AppData
 //
 //  Created by Mudith Chathuranga on 5/28/18.
 //  Copyright © 2018 Chathuranga. All rights reserved.
