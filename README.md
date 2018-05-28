@@ -7,21 +7,6 @@ Simply copy and paste AppData File on your Project :)
 
 ## Usage
 
-#### Data Type
-
-Data type should be in Codable. eg:- 
-
-```
-   import Foundation
-
-    struct User: Codable {
-    
-        var name: String
-        var email: String
-    
-    }
-```
-
 #### Save General Data types on User Defaults
 
 ``` 
